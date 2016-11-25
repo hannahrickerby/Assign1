@@ -34,7 +34,6 @@ margin-top: 10;
 li a {
     justify-content: center;
     display: block;
-    margin: 0px auto;
     color: white;
     text-align: center;
     padding: 14px 16px;
@@ -44,6 +43,10 @@ li a {
 
 /* Change the link color to #565656 (black) on hover */
 li a:hover {
+    background-color: #565656;
+}
+
+.active {
     background-color: #565656;
 }
 
