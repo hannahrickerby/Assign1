@@ -7,6 +7,7 @@ body
   background-color: #d7cec7;
   height: 100%;
   width: 100;
+  font-family: 'Hind Madurai', sans-serif;
 
 }
 
@@ -102,5 +103,12 @@ font-family: 'Mate', serif;
   font-family: 'Mate', serif;
   color: white;
   margin-left: 10px;
+  margin-top: 50px;
   font-size: 20px;
+}
+
+h2
+{
+Color: Black
+font-family: 'Hind Madurai', sans-serif;
 }
