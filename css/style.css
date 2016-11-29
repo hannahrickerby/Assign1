@@ -1,4 +1,4 @@
-/* classes */
+/* stylesheet */
 
 h1
 {
@@ -23,7 +23,7 @@ body
 {
   display: flex;
   flex-direction: column;
-  background-color: #d7cec7;
+  background-color: #d7cec7; /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accesses 24/11/2016]*/
   height: 100%;
   width: 100;
   font-family: 'Hind Madurai', sans-serif;
@@ -35,7 +35,7 @@ body
   margin: -10px;
   height: 70px;
   width: 1400px;
-  background-color: #76323f;
+  background-color: #76323f;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accesses 24/11/2016]*/
 }
 
 .UL
@@ -43,7 +43,8 @@ body
 list-style-type: none;
 padding: 0;
 }
-
+/*.UL code
+W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from: http://www.w3schools.com/css/css_navbar.asp*/
 nav
 {
   float:left;
@@ -58,7 +59,8 @@ margin-left: 30;
 margin-top: 10;
 
 }
-
+/*.li code
+W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from: http://www.w3schools.com/css/css_navbar.asp*/
 
 
 li a {
@@ -70,14 +72,17 @@ li a {
     text-decoration: none;
     font-family: 'Mate', serif;
 }
+/*.li a code
+W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from: http://www.w3schools.com/css/css_navbar.asp*/
 
 /* Change the link color to #565656 (black) on hover */
 li a:hover {
-    background-color: #565656;
+    background-color: #565656;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accesses 24/11/2016]*/
 }
-
+/*.li a:hover code
+W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from: http://www.w3schools.com/css/css_navbar.asp*/
 .active {
-    background-color: #565656;
+    background-color: #565656;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accesses 24/11/2016]*/
 }
 
 .indexphoto-center
@@ -92,7 +97,7 @@ li a:hover {
   margin: -10px;
   height: 20px;
   width: 1400px;
-  background-color: #76323f;
+  background-color: #76323f;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accesses 24/11/2016]*/
   text-align: center;
 }
 
@@ -102,7 +107,7 @@ li a:hover {
   width: 20%;
   height: 1080px;
   float: left;
-  background-color: #c09f80;
+  background-color: #c09f80;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accesses 24/11/2016]*/
   margin-left: 15px;
   margin-top: 30px;
   margin-right: 30px;
@@ -114,7 +119,7 @@ li a:hover {
   width: 20%;
   height: 580px;
   float: left;
-  background-color: #c09f80;
+  background-color: #c09f80;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accesses 24/11/2016]*/
   margin-left: 15px;
   margin-top: 30px;
   margin-right: 30px;
@@ -126,7 +131,7 @@ li a:hover {
   width: 20%;
   height: 550px;
   float: left;
-  background-color: #c09f80;
+  background-color: #c09f80;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accesses 24/11/2016]*/
   margin-left: 15px;
   margin-top: 30px;
   margin-right: 30px;
