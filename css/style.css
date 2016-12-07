@@ -113,40 +113,51 @@ W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from:
 
 .left-column
 {
-  width: 13%;
+  width: 3%;
   height: 1080px;
   float: left;
   background-color: #565656;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accessed 24/11/2016]*/
-  margin-left: 2px;
-  margin-top: 2px;
+  margin-left: -10px;
+  margin-top: 9px;
   margin-right: 2px;
   margin-bottom: 2px;
 }
 
 .left-column1
 {
-  width: 13%;
-  height: 580px;
+  width: 3%;
+  height: 600px;
   float: left;
   background-color: #565656;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accessed 24/11/2016]*/
-  margin-left: 2px;
-  margin-top: 2px;
+  margin-left: -10px;
+  margin-top: 9px;
   margin-right: 2px;
   margin-bottom: 2px;
 }
 
 .left-column2
 {
-  width: 13%;
+  width: 3%;
   height: 550px;
   float: left;
   background-color: #565656;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accesses 24/11/2016]*/
-  margin-left: 2px;
-  margin-top: 2px;
+  margin-left:-10px;
+  margin-top: 9px;
   margin-right: 2px;
   margin-bottom: 2px;
 }
 
+.left-column3
+{
+  width: 3%;
+  height: 600px;
+  float: left;
+  background-color: #565656;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accesses 24/11/2016]*/
+  margin-left:-10px;
+  margin-top: 9px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+}
 
 .cvbar
 {
