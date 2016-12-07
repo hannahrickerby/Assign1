@@ -59,7 +59,18 @@ Description of work
     on all the pages
 30/11/16 - 2 Hours
 29. Started Readme file
-
+30. Changed the colour scheme on my website as the colours were too dark, these ones are
+    more appropriate for the internet
+31. Removed the panel off the cv page as having two navigation bars shouldn't be, edited
+    this and removed it
+32. Introduced divs into my work so that I could create the divides and easily move parts
+    on my website together as a whole, such as all the writing on one page where there's
+    different heading and paragraph tags
+33. Changed the left article column on all the pages and added one onto the index page to
+    prevent the floating footer, made the article column smaller and sit into the page
+    instead of it floating as this is apparently very old school
+34. Used the div on the CV page to moved all the writing to the centre so that the amounts
+    of empty space were more even
 References in the Code
 <!--Email image Pixabay (2016) Images pixabay [online] https://pixabay.com/en/mail-message-email-send-message-1454733/ [Accessed 26/11/16]-->
 <!--Phone image Pixabay (2016) Images pixabay [online] https://pixabay.com/en/phone-call-call-now-telephone-1439841/[Accessed 26/11/16] -->
