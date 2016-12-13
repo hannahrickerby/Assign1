@@ -219,3 +219,28 @@ legend
 }
 
 /*css design for forms Duckett, J, (2011) HTML & CSS Design and build websites,United states of America and Canada, John Wiley and Sons, inc. */
+
+
+
+
+
+/* media queries */
+@media screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+}
+
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3) {
+
+}

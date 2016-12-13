@@ -72,6 +72,13 @@ Description of work
     instead of it floating as this is apparently very old school
 34. Used the div on the CV page to moved all the writing to the centre so that the amounts
     of empty space were more even
+13/12/16 - 2 Hours
+35. Removed form that was taken from w3 schools, used online guide and Jon Duckett book to
+    create a new form from scratch
+36. Used the book to add a legend and fieldset to my form and then changed the layout and
+    look of it on my css file
+37. Added in a meta tag to scale page to fit best on what it's being viewed on
+38. Added 3 media queries based on a laptop, tablet and phone to break the page up
 References in the Code
 <!--Email image Pixabay (2016) Images pixabay [online] https://pixabay.com/en/mail-message-email-send-message-1454733/ [Accessed 26/11/16]-->
 <!--Phone image Pixabay (2016) Images pixabay [online] https://pixabay.com/en/phone-call-call-now-telephone-1439841/[Accessed 26/11/16] -->
