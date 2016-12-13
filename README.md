@@ -84,6 +84,9 @@ W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from:
 W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from: http://www.w3schools.com/css/css_navbar.asp [Accessed 25/11/16]-->
 <!--.li a:hover code
 W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from: http://www.w3schools.com/css/css_navbar.asp [25/11/16]-->
+<!-- Email form
+MDN (2016) My First Html Form [online] Avialable from: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/My_first_HTML_form [Accessed 13/12/16] -->
+<!-- css design for forms Duckett, J, (2011) HTML & CSS Design and build websites,United states of America and Canada, John Wiley and Sons, inc. -->
 
 People I've Collaborated with or Discussed the work with
 Gta - Tom has helped me with some mistakes that I was not able to change myself

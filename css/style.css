@@ -132,7 +132,7 @@ W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from:
 .left-column1
 {
   width: 3%;
-  height: 600px;
+  height: 630px;
   float: left;
   background-color: #565656;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accessed 24/11/2016]*/
   margin-left: -10px;
@@ -174,12 +174,6 @@ W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from:
   font-size: 20px;
 }
 
-.contactphoto
-{
-  display: flex;
-  flex-direction: column;
-}
-
 .list
 {
   float: center;
@@ -190,7 +184,38 @@ W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from:
   text-align: center;
 }
 
-.contactmeinfo
+.title
 {
-  margin-left: 10px;
+  float: left;
+  width: 100px;
+  text-align: right;
+  padding-right: 10px;
 }
+
+.submit
+{
+  text-align: right;
+}
+
+fieldset
+{
+  width: 350px;
+  border: 1px solid #565656;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: right;
+  margin-left: 50px;
+}
+
+legend
+{
+  background-color: #565656;
+  color: white;
+  border: 1px solid #565656;
+  border-radius: 10px;
+  padding: 10px 20px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+/*css design for forms Duckett, J, (2011) HTML & CSS Design and build websites,United states of America and Canada, John Wiley and Sons, inc. */
