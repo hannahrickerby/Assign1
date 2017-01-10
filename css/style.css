@@ -34,7 +34,6 @@ body
 {
   margin: -10px;
   height: 70px;
-  width: 1400px;
   background-color: #96858f;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accesses 24/11/2016]*/
 }
 
@@ -102,7 +101,6 @@ W3Schools (2016) Website navigation bars. W3Schools.com [online] Available from:
   align-items: baseline;
   margin: -10px;
   height: 40px;
-  width: 1400px;
   background-color: #96858f;  /*Canva (2016) Website Color Schemes. Cannva Learn[Online] Available form: https://designschool.canva.com/blog/website-color-schemes/ [Accessed 24/11/2016]*/
   text-align: center;
 }
